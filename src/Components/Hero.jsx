@@ -18,7 +18,7 @@ function Hero() {
                 </div>
             
                 <div className="col-md-6 text-right">
-                    <img src="public/img/alex-vidal.png" alt="alex-vidal"/>
+                    <img src="/img/alex-vidal.png" alt="alex-vidal"/>
                 </div>
 
             </div>

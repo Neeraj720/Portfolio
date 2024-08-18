@@ -5,7 +5,7 @@ function Contect() {
     <section id="contact" class="site-section section-form text-center">
       <div class="container">
         <h3>Contact</h3>
-        <img src="public/img/lines.svg" class="img-lines" alt="lines" />
+        <img src="/img/lines.svg" class="img-lines" alt="lines" />
         <form
           action="https://formsubmit.co/584d02c7e7e277c524f2058caac7b049 " method="POST"
         >

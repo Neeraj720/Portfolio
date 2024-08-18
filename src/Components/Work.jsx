@@ -6,12 +6,12 @@ function Work() {
       <div className="container">
         <div className="text-center">
           <h3>My recent Works</h3>
-          <img src="public/img/lines.svg" className="img-lines" alt="lines" />
+          <img src="/img/lines.svg" className="img-lines" alt="lines" />
         </div>
         <div className="row">
           <div className="col-md-4 col-xs-6">
             <div className="portfolio-item">
-              <img src="public/img/gemini.png" className="img-res" alt="" />
+              <img src="/img/gemini.png" className="img-res" alt="" />
               <div className="portfolio-item-info">
                 <h4>Google Gemini</h4>
                 <a
@@ -31,7 +31,7 @@ function Work() {
           <div className="col-md-4 col-xs-6">
             <div className="portfolio-item">
               <img
-                src="public/img/google.png"
+                src="/img/google.png"
                 className="img-res"
                 alt=""
               />
@@ -49,7 +49,7 @@ function Work() {
           <div className="col-md-4 col-xs-6">
             <div className="portfolio-item">
               <img
-                src="public/img/shopping.png"
+                src="/img/shopping.png"
                 className="img-res"
                 alt=""
               />
@@ -67,7 +67,7 @@ function Work() {
           <div className="col-md-4 col-xs-6">
             <div className="portfolio-item">
               <img
-                src="public/img/crud.png"
+                src="/img/crud.png"
                 className="img-res"
                 alt=""
               />
@@ -85,7 +85,7 @@ function Work() {
           <div className="col-md-4 col-xs-6">
             <div className="portfolio-item">
               <img
-                src="public/img/travel.png"
+                src="/img/travel.png"
                 className="img-res"
                 alt=""
               />
@@ -103,7 +103,7 @@ function Work() {
           <div className="col-md-4 col-xs-6">
             <div className="portfolio-item">
               <img
-                src="public/img/weather.png"
+                src="/img/weather.png"
                 className="img-res"
                 alt=""
               />

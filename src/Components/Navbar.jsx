@@ -23,7 +23,6 @@ function Navbar() {
             <span className="icon-bar"></span>
           </button>
           <a href="#hero" className="site-logo">
-            {/* <img src="public/img/logo.png" alt="logo" /> */}
             <h3 style={{color:'black',fontFamily:'Great Vibes, cursive'}} >Neeraj Singh</h3>
           </a>
         </div>

@@ -7,7 +7,7 @@ function Skils() {
         <div class="container">
           <div class="text-center">
             <h3>My Skills</h3>
-            <img src="public/img/lines.svg" class="img-lines" alt="lines" />
+            <img src="/img/lines.svg" class="img-lines" alt="lines" />
           </div>
           <div class="row">
             <div class="col-md-4">

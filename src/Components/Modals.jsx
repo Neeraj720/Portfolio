@@ -8,7 +8,7 @@ function Modals() {
         <div class="modal-content">
           <div class="modal-header">
             <a class="close" data-dismiss="modal"><span class="glyphicon glyphicon-remove"></span></a>
-            <img class="img-res"  src="public/img/gemini.png" alt=""/>
+            <img class="img-res"  src="/img/gemini.png" alt=""/>
           </div>
           <div class="modal-body">
             <h4 class="modal-title">Google Gemini</h4>
@@ -26,7 +26,7 @@ function Modals() {
         <div class="modal-content">
           <div class="modal-header">
             <a class="close" data-dismiss="modal"><span class="glyphicon glyphicon-remove"></span></a>
-            <img class="img-res" src="public/img/google.png" alt=""/>
+            <img class="img-res" src="/img/google.png" alt=""/>
           </div>
           <div class="modal-body">
             <h4 class="modal-title">Google Clone</h4>
@@ -44,7 +44,7 @@ function Modals() {
         <div class="modal-content">
           <div class="modal-header">
             <a class="close" data-dismiss="modal"><span class="glyphicon glyphicon-remove"></span></a>
-            <img class="img-res" src="public/img/shopping.png" alt=""/>
+            <img class="img-res" src="/img/shopping.png" alt=""/>
           </div>
           <div class="modal-body">
             <h4 class="modal-title">Shopping Cart</h4>
@@ -62,7 +62,7 @@ function Modals() {
         <div class="modal-content">
           <div class="modal-header">
             <a class="close" data-dismiss="modal"><span class="glyphicon glyphicon-remove"></span></a>
-            <img class="img-res" src="public/img/crud.png" alt=""/>
+            <img class="img-res" src="/img/crud.png" alt=""/>
           </div>
           <div class="modal-body">
             <h4 class="modal-title">Crud Application</h4>
@@ -80,7 +80,7 @@ function Modals() {
         <div class="modal-content">
           <div class="modal-header">
             <a class="close" data-dismiss="modal"><span class="glyphicon glyphicon-remove"></span></a>
-            <img class="img-res" src="public/img/travel.png" alt=""/>
+            <img class="img-res" src="/img/travel.png" alt=""/>
           </div>
           <div class="modal-body">
             <h4 class="modal-title">Travel Landing Page</h4>
@@ -98,7 +98,7 @@ function Modals() {
         <div class="modal-content">
           <div class="modal-header">
             <a class="close" data-dismiss="modal"><span class="glyphicon glyphicon-remove"></span></a>
-            <img class="img-res" src="public/img/weather.png" alt=""/>
+            <img class="img-res" src="/img/weather.png" alt=""/>
           </div>
           <div class="modal-body">
             <h4 class="modal-title">Weather App</h4>
